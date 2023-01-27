@@ -44,7 +44,7 @@ make_art <- function (myseed){
   
 }
 
-myart(430764)
+make_art(430764)
 
 
 
